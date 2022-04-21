@@ -28,7 +28,7 @@
 - **Curso** Resolvendo Desafios de Código em JavaScript 
 - **Desafio de Código** Desafios Iniciais Js - Carrefour Web 
 
-> Módulo 3 - ReactJS 
+> Módulo 4 - ReactJS 
 - **Curso** Introdução ao ReactJS
 - **Curso** Desenvolvimento de aplicações para internet com ReactJS 
 - **Curso** Introdução a Redux com ReactJS 
