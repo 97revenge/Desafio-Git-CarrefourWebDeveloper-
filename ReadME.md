@@ -36,7 +36,7 @@
 - **Curso** Trabalhando com States & Effects no ReactJS
 - **Desafio de Projeto** Desenvolvendo uma Progressive Web Application com Reacts para mapear os Dados do Covid19 pelo mundo 
 
-> Módulo 4 - JAVA/SpringBoot 
+> Módulo 5 - JAVA/SpringBoot 
 - **Curso** introdução ao Ecossistema e Documentação Java
 - **Curso** Dominando IDEs com Java  
 - **Curso** Variáveis, Tipos de Dados e Operadores Matematicos em Java 
